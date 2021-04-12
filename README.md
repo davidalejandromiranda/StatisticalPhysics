@@ -7,9 +7,9 @@
 + Momentos de Variables Aleatorias: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_MomentoVariablesAleatorias.ipynb)
   
 ## Semana 2
-+ Procesamiento de muestra de datos del Covid19 en Colombia: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_Muestreo.ipynb)
 + Distribuciones y Normalidad: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DistribucionesYNormalidad.ipynb)
 + Suma de Variables Aleatorias y Teorema del Valor Central: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SumaVariablesAleatorias.ipynb)
++ Procesamiento de muestra de datos del Covid19 en Colombia: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_Muestreo.ipynb)
 
 ## Semana 3
 + Péndulo Simple en el Espacio de Fase: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb)
