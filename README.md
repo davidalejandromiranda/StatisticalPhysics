@@ -12,6 +12,7 @@
 + Procesamiento de muestra de datos del Covid19 en Colombia: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_Muestreo.ipynb)
 
 ## Semana 3
++ Experimento con dados: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DadosExperimento.ipynb)
 + Péndulo Simple en el Espacio de Fase: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb)
 
 ## Semana 4
