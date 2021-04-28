@@ -16,6 +16,8 @@
 + Péndulo Simple en el Espacio de Fase: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb), [video](https://youtu.be/BQQGKKNjCfQ).
 
 ## Semana 4
++ Estadística de números grandes, formula de Stirling: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_FormulaStirling.ipynb)
++ Partículas con espín 1/2 sometidas a un campo magnético externo H: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCapoH.ipynb).
 + Difusión de una gota de tinta soluble en agua: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DifusionTintaEnAgua.ipynb).
 
 ## Semana 5
