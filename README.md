@@ -12,8 +12,8 @@
 + Procesamiento de muestra de datos del Covid19 en Colombia: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_Muestreo.ipynb).
 
 ## Semana 3
-+ Experimento con dados: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DadosExperimento.ipynb)
-+ Péndulo Simple en el Espacio de Fase: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb), [vieo](https://youtu.be/BQQGKKNjCfQ).
++ Experimento con dados: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DadosExperimento.ipynb).
++ Péndulo Simple en el Espacio de Fase: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb), [video](https://youtu.be/BQQGKKNjCfQ).
 
 ## Semana 4
 + Difusión de una gota de tinta soluble en agua: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DifusionTintaEnAgua.ipynb).
