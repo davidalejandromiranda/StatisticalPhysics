@@ -1,6 +1,6 @@
 # Statistical Physics
 
-Syllabus [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV6eE/0)
+Syllabus [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV6eE/0).
 
 ## Semana 1: Introducción a los métodos estadísticos 
 + Camino aleatorio: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CaminoAleatorio.ipynb).
@@ -10,7 +10,7 @@ Syllabus [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV
   
 ## Semana 2: Distribuciones de probabilidad
 + Distribuciones y Normalidad: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DistribucionesYNormalidad.ipynb).
-+ Suma de Variables Aleatorias y Teorema del Valor Central: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SumaVariablesAleatorias.ipynb).
++ Suma de Variables Aleatorias y Teorema del Valor Central: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SumaVariablesAleatorias.ipynb), [video](https://youtu.be/aEznx6ieqok).
 + Procesamiento de muestra de datos del Covid19 en Colombia: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_Muestreo.ipynb).
 
 ## Semana 3: Postulados básicos y cálculo de probabilidades
