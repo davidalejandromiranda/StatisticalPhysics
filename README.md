@@ -18,8 +18,8 @@ Syllabus [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV
 + Péndulo Simple en el Espacio de Fase: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb), [video](https://youtu.be/BQQGKKNjCfQ).
 
 ## Semana 4: Interacciones y procesos cuasi-estáticos
-+ Estadística de números grandes y la aproximación de Stirling: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_AproximacionStirling.ipynb)
-+ Partículas con espín 1/2 sometidas a un campo magnético externo H: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCapoH.ipynb).
++ Estadística de números grandes y la aproximación de Stirling: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_AproximacionStirling.ipynb).
++ Partículas cuánticas con espín 1/2 sometidas a un campo magnético externo H: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCapoH.ipynb).
 + Difusión de una gota de tinta soluble en agua: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DifusionTintaEnAgua.ipynb).
 
 ## Semana 5: Termodinámica estadística, conceptos básicos
