@@ -19,8 +19,8 @@ Syllabus [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV
 
 ## Semana 4: Interacciones y procesos cuasi-estáticos
 + Estadística de números grandes y la aproximación de Stirling: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_AproximacionStirling.ipynb), [video](https://youtu.be/SZQLFxHGvxs).
-+ Partículas cuánticas con espín 1/2 sometidas a un campo magnético externo H: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCapoH.ipynb).
-+ Difusión de una gota de tinta soluble en agua: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DifusionTintaEnAgua.ipynb), [video](https://youtu.be/yFWxy3Rlhw0).
++ Partículas cuánticas con espín 1/2 sometidas a un campo magnético externo H: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCapoH.ipynb), [video](https://youtu.be/yFWxy3Rlhw0).
++ Difusión de una gota de tinta soluble en agua: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DifusionTintaEnAgua.ipynb).
 
 ## Semana 5: Termodinámica estadística, conceptos básicos
 + Variación de la energía media, trabajo y calor: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_VariacionEnergiaTrabajoCalor.ipynb).
