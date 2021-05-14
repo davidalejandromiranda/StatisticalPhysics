@@ -27,7 +27,7 @@ Syllabus [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV
 + Variación de la energía media, trabajo y calor: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_VariacionEnergiaTrabajoCalor.ipynb).
 
 ## Semana 6
-+ Interacción entre sistemas formados por dados: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_InteraccionSistemasDeDados.ipynb)
++ Interacción entre sistemas formados por dados: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_InteraccionSistemasDeDados.ipynb).
 + Enumeración de Estados, un juego con confeti: [notebook](https://colab.research.google.com/github/davidalejandromiranda/entropy_isolated/blob/master/Simulation.ipynb), [Worked Example](https://drive.google.com/file/d/1TEPpuVCYqyZOpBpt_BgvB9rBpD-NBHVv/view?usp=sharing).
 
 ## Semana 7
