@@ -24,7 +24,7 @@ Syllabus [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV
 
 ## Semana 5: Termodinámica estadística, conceptos básicos
 + Generación de datos para estudiar el trabajo realizado al variar el volumen y presión de un sistema: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_VariacionPresionVolumenS5.ipynb).
-+ Variación de la energía media, trabajo y calor: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_VariacionEnergiaTrabajoCalor.ipynb).
++ Variación de la energía media, trabajo y calor: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_GasIdealPresionTemperaturaParticulas.ipynb).
 
 ## Semana 6
 + Interacción entre sistemas formados por dados: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_InteraccionSistemasDeDados.ipynb).
