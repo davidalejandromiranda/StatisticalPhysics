@@ -2,6 +2,8 @@
 
 Syllabus [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV6eE/0).
 
+Canal de [YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1Iw0LnygynpWyNg7_7).
+
 ## Semana 1: Introducción a los métodos estadísticos 
 + Camino aleatorio: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CaminoAleatorio.ipynb).
 + Juego de Parqués: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_JuegoParques.ipynb).
