@@ -26,26 +26,26 @@ Syllabus [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV
 + Generación de datos para estudiar el trabajo realizado al variar el volumen y presión de un sistema: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_VariacionPresionVolumenS5.ipynb).
 + Variación de la energía media, trabajo y calor: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_GasIdealPresionTemperaturaParticulas.ipynb).
 
-## Semana 6
+## Semana 6: Termodinámica estadística, conceptos básicos
 + Interacción entre sistemas formados por dados: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_InteraccionSistemasDeDados.ipynb).
 + Enumeración de Estados, un juego con confeti: [notebook](https://colab.research.google.com/github/davidalejandromiranda/entropy_isolated/blob/master/Simulation.ipynb), [Worked Example](https://drive.google.com/file/d/1TEPpuVCYqyZOpBpt_BgvB9rBpD-NBHVv/view?usp=sharing).
 
-## Semana 7
+## Semana 7: Leyes termodinámicas, relaciones estadísticas y ecuación de estado
 
-## Semana 8
+## Semana 8: Relaciones de Maxwell de la Termodinámica
 
-## Semana 9
+## Semana 9: Máquinas térmicas
 
-## Semana 10
+## Semana 10: Ensambles microcanónico y canónico
 
-## Semana 11
+## Semana 11: Ensamble gran canónico y propiedades de la función de partición
 
-## Semana 12
+## Semana 12: El teorema de equipartición y algunas aplicaciones
 
-## Semana 13
+## Semana 13: Aplicaciones de la mecánica estadística
 
-## Semana 14
+## Semana 14: Partículas idénticas y estadística cuántica
 
-## Semana 15
+## Semana 15: El gas ideal y la radiación de cuerpo negro
 
-## Semana 16
+## Semana 16: Proyecto de final de curso
