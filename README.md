@@ -33,6 +33,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Enumeración de Estados, un juego con confeti: [notebook](https://colab.research.google.com/github/davidalejandromiranda/entropy_isolated/blob/master/Simulation.ipynb), [Worked Example](https://drive.google.com/file/d/1TEPpuVCYqyZOpBpt_BgvB9rBpD-NBHVv/view?usp=sharing).
 
 ## Semana 7: Leyes termodinámicas, relaciones estadísticas y ecuación de estado
++ Partículas cuánticas con espín 1/2 sometidas a un campo magnético externo H: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCapoH_Temperatura.ipynb)
 
 ## Semana 8: Relaciones de Maxwell de la Termodinámica
 
