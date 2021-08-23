@@ -35,9 +35,10 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 ## Semana 7: Leyes termodinámicas, relaciones estadísticas y ecuación de estado
 + Partículas cuánticas con espín 1/2 sometidas a un campo magnético externo H: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCapoH_Temperatura.ipynb).
 
-## Semana 8: Relaciones de Maxwell de la Termodinámica
+## Semana 8: Aplicaciones de la termodinámica macroscópica
++ Leyes del gas ideal: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_GasIdealLeyes.ipynb).
 
-## Semana 9: Máquinas térmicas
+## Semana 9: Expansión libre, compresión y máquinas térmicas
 
 ## Semana 10: Ensambles microcanónico y canónico
 
