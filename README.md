@@ -39,6 +39,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Leyes del gas ideal: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_GasIdealLeyes.ipynb).
 
 ## Semana 9: Expansión libre, compresión y máquinas térmicas
++ Gas ideal en cilindro con pistón móvil: [notebook](es_GasIdealEnCilindroConPiston.ipynb).
 
 ## Semana 10: Ensambles microcanónico y canónico
 
