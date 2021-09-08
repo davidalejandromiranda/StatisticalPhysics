@@ -43,6 +43,8 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 
 ## Semana 10: Ensambles microcanónico y canónico
 
++ Valor esperado de la magnetización de una sustancia paramagnética: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCampo_FunParticion.ipynb).
+
 ## Semana 11: Ensamble gran canónico y propiedades de la función de partición
 
 ## Semana 12: El teorema de equipartición y algunas aplicaciones
