@@ -46,6 +46,8 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 
 ## Semana 11: Ensamble gran canónico
 
++ Nanoestructura semiconductora 2D a temperatura absotulta T: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructuraTemperatura.ipynb).
+
 ## Semana 12: El teorema de equipartición y algunas aplicaciones
 
 ## Semana 13: Aplicaciones de la mecánica estadística
