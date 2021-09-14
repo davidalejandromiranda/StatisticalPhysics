@@ -42,11 +42,11 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Gas ideal en cilindro con pistón móvil: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_GasIdealEnCilindroConPiston.ipynb).
 
 ## Semana 10: Ensambles microcanónico y canónico
-+ Valor esperado de la magnetización de una sustancia paramagnética: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCampo_FunParticion.ipynb).
++ Valor esperado de la magnetización de una sustancia paramagnética: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCampo_FunParticion.ipynb), [video](https://youtu.be/iJ5rMgt85S4).
 
 ## Semana 11: Ensamble gran canónico
 
-+ Nanoestructura semiconductora 2D a temperatura absotulta T: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructuraTemperatura.ipynb).
++ Nanoestructura semiconductora 2D a temperatura absotulta T: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructuraTemperatura.ipynb), [video](https://youtu.be/8-38GaFD8C8).
 
 ## Semana 12: El teorema de equipartición y algunas aplicaciones
 
