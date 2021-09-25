@@ -45,10 +45,11 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Valor esperado de la magnetización de una sustancia paramagnética: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCampo_FunParticion.ipynb), [video](https://youtu.be/iJ5rMgt85S4).
 
 ## Semana 11: Ensamble gran canónico
-
 + Nanoestructura semiconductora 2D a temperatura absotulta T: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructuraTemperatura.ipynb), [video](https://youtu.be/8-38GaFD8C8).
 
 ## Semana 12: El teorema de equipartición y algunas aplicaciones
++ Análisis de la función de partición canónica, energía térmica y valor esperado de la energía para partículas cuánticas en un pozo de potencial infinito unidimensional a temperatura T: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructura_EnergiaTermica.ipynb)
+
 
 ## Semana 13: Aplicaciones de la mecánica estadística
 
