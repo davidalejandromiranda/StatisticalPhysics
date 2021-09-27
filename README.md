@@ -48,11 +48,11 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Nanoestructura semiconductora 2D a temperatura absotulta T: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructuraTemperatura.ipynb), [video](https://youtu.be/8-38GaFD8C8).
 
 ## Semana 12: El teorema de equipartición y algunas aplicaciones
-+ Análisis de la función de partición canónica, energía térmica y valor esperado de la energía para partículas cuánticas en un pozo de potencial infinito unidimensional a temperatura T: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructura_EnergiaTermica.ipynb)
++ Análisis de la función de partición canónica, energía térmica y valor esperado de la energía para partículas cuánticas en un pozo de potencial infinito unidimensional a temperatura T: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructura_EnergiaTermica.ipynb).
 
 ## Semana 13: Aplicaciones de la mecánica estadística
 
-+ Calor específico en sólidos: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CalorEspecificoSolidos.ipynb)
++ Ley de Dulong-Petit, modelo de Einstein y modelo de Debye para el calor específico en sólidos: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CalorEspecificoSolidos.ipynb).
 
 ## Semana 14: Partículas idénticas y estadística cuántica
 
