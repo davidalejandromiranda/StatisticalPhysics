@@ -52,6 +52,8 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 
 ## Semana 13: Aplicaciones de la mecánica estadística
 
++ Calor específico en sólidos: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CalorEspecificoSolidos.ipynb)
+
 ## Semana 14: Partículas idénticas y estadística cuántica
 
 ## Semana 15: El gas ideal y la radiación de cuerpo negro
