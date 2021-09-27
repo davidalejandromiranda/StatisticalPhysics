@@ -50,7 +50,6 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 ## Semana 12: El teorema de equipartición y algunas aplicaciones
 + Análisis de la función de partición canónica, energía térmica y valor esperado de la energía para partículas cuánticas en un pozo de potencial infinito unidimensional a temperatura T: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructura_EnergiaTermica.ipynb)
 
-
 ## Semana 13: Aplicaciones de la mecánica estadística
 
 ## Semana 14: Partículas idénticas y estadística cuántica
