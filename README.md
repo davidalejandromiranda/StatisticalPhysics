@@ -53,7 +53,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 ## Semana 13: Aplicaciones de la mecánica estadística
 
 + Ley de Dulong-Petit, modelo de Einstein y modelo de Debye para el calor específico en sólidos: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CalorEspecificoSolidos.ipynb).
-+ Teoría cinética de los gases diluidos: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_TeoriaCinecaGasesDiluidos.ipynb).
++ Teoría cinética de los gases diluidos: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DistribucionVelocidadesMaxwellBoltzmann.ipynb).
 
 ## Semana 14: Partículas idénticas y estadística cuántica
 
