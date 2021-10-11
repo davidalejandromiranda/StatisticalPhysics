@@ -59,4 +59,6 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 
 ## Semana 15: El gas ideal y la radiación de cuerpo negro
 
++ Comparación de las distribuciones de Fermi-Dirac, Maxwell-Boltzmann y Bose-Einstein: [notebook](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/).
+
 ## Semana 16: Proyecto de final de curso
