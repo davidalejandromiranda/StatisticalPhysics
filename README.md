@@ -1,4 +1,4 @@
-# Cursos y Syllabus
+# Cursos y *Syllabus*
 
 *Syllabus* por semestre: 
   + Pregrado: [2021-2](http://weekapp.co/#/1JEstkmNXBMsG8nXCPeKUBhb_Xn0aO9B3Lj6E5vl15SY/0), [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV6eE/0).
@@ -66,3 +66,12 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Radiación de cuerpo negro: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_RadiacionCuerpoNegro_PhET.ipynb).
 
 ## Semana 16: Proyecto de final de curso
+
+
+# Mecánica Estadística Avanzada: Posgrado
+
+## Semana 1: Introducción a los métodos estadísticos
++ Camino aleatorio: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CaminoAleatorio.ipynb).
++ Distribuciones y Normalidad: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DistribucionesYNormalidad.ipynb).
++ Suma de Variables Aleatorias y Teorema del Valor Central: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SumaVariablesAleatorias.ipynb), [video](https://youtu.be/aEznx6ieqok).
++ Procesamiento de muestra de datos del Covid19 en Colombia: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_Muestreo.ipynb).
