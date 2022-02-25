@@ -1,9 +1,12 @@
-# Física Estadística
+# Cursos y Syllabus
 
-*Syllabus* por semestre: [2021-2](http://weekapp.co/#/1JEstkmNXBMsG8nXCPeKUBhb_Xn0aO9B3Lj6E5vl15SY/0), [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV6eE/0).
+*Syllabus* por semestre: 
+  + Pregrado: [2021-2](http://weekapp.co/#/1JEstkmNXBMsG8nXCPeKUBhb_Xn0aO9B3Lj6E5vl15SY/0), [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV6eE/0).
+  + Posgrado: [2022-1](http://weekapp.co/#/1fh3zCDorBNJCBRG2UixJPn9rCzPaFzV_ZJIZF4SA3rw/0).
 
 En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1Iw0LnygynpWyNg7_7) podrás ver videos explicativos.
 
+# Física Estadística: Pregrado
 ## Semana 1: Introducción a los métodos estadísticos 
 + Camino aleatorio: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CaminoAleatorio.ipynb).
 + Juego de Parqués: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_JuegoParques.ipynb).
