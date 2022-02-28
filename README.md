@@ -77,5 +77,5 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Procesamiento de muestra de datos del Covid19 en Colombia: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_Muestreo.ipynb).
 
 ## Semana 2: Base estadística de la termodinámica
-+ Expesificación del estado de un sistema, experimento con dados: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DadosExperimento.ipynb).
++ Especificación del estado de un sistema, experimento con dados: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DadosExperimento.ipynb).
 + Estadística de números grandes y la aproximación de Stirling: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_AproximacionStirling.ipynb), [video](https://youtu.be/SZQLFxHGvxs).
