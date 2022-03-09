@@ -79,3 +79,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 ## Semana 2: Base estadística de la termodinámica
 + Especificación del estado de un sistema, experimento con dados: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DadosExperimento.ipynb).
 + Estadística de números grandes y la aproximación de Stirling: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_AproximacionStirling.ipynb), [video](https://youtu.be/SZQLFxHGvxs).
+
+## Semana 3: Elementos de la teoría de ensambles
++ Péndulo Simple en el Espacio de Fase: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb), [video](https://youtu.be/BQQGKKNjCfQ).
++ Partículas cuánticas con espín 1/2 sometidas a un campo magnético externo H: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCapoH.ipynb), [video](https://youtu.be/yFWxy3Rlhw0).
