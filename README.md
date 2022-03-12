@@ -20,7 +20,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 
 ## Semana 3: Postulados básicos y cálculo de probabilidades
 + Experimento con dados: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DadosExperimento.ipynb).
-+ Péndulo Simple en el Espacio de Fase: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb), [video](https://youtu.be/BQQGKKNjCfQ).
++ Oscilador Armónico Clásico en el Espacio de Fase: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb), [video](https://youtu.be/BQQGKKNjCfQ).
 
 ## Semana 4: Interacciones y procesos cuasi-estáticos
 + Estadística de números grandes y la aproximación de Stirling: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_AproximacionStirling.ipynb), [video](https://youtu.be/SZQLFxHGvxs).
