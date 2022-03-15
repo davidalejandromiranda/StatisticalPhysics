@@ -83,3 +83,6 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 ## Semana 3: Elementos de la teoría de ensambles
 + Oscilador Armónico Clásico en el Espacio de Fase: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_PenduloSimpleEspacioFase.ipynb), [video](https://youtu.be/BQQGKKNjCfQ).
 + Partículas cuánticas con espín 1/2 sometidas a un campo magnético externo H: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCapoH.ipynb), [video](https://youtu.be/yFWxy3Rlhw0).
+
+## Semana 4: El ensamble canónico
++ Interacción entre sistemas formados por dados: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_InteraccionSistemasDeDados.ipynb).
