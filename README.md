@@ -6,6 +6,9 @@
 
 En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1Iw0LnygynpWyNg7_7) podrás ver videos explicativos.
 
+---
+---
+
 # Física Estadística: Pregrado
 ## Semana 1: Introducción a los métodos estadísticos 
 + Camino aleatorio: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CaminoAleatorio.ipynb).
@@ -67,6 +70,9 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 
 ## Semana 16: Proyecto de final de curso
 
+---
+
+--- 
 
 # Mecánica Estadística Avanzada: Posgrado
 
@@ -86,3 +92,5 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 
 ## Semana 4: El ensamble canónico
 + Interacción entre sistemas formados por dados: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_InteraccionSistemasDeDados.ipynb).
+
+---
