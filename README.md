@@ -93,4 +93,10 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 ## Semana 4: El ensamble canónico
 + Interacción entre sistemas formados por dados: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_InteraccionSistemasDeDados.ipynb).
 
+## Semana 5: El ensamble canónico
++ Valor esperado de la magnetización de una sustancia paramagnética: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ParticulasConEspinEnCampo_FunParticion.ipynb), [video](https://youtu.be/iJ5rMgt85S4).
++ Nanoestructura semiconductora 2D a temperatura absotulta T: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructuraTemperatura.ipynb), [video](https://youtu.be/8-38GaFD8C8).
++ Análisis de la función de partición canónica, energía térmica y valor esperado de la energía para partículas cuánticas en un pozo de potencial infinito unidimensional a temperatura T: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructura_EnergiaTermica.ipynb).
++ Ley de Dulong-Petit, modelo de Einstein y modelo de Debye para el calor específico en sólidos: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CalorEspecificoSolidos.ipynb).
+
 ---
