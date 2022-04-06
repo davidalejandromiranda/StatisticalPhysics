@@ -99,4 +99,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Análisis de la función de partición canónica, energía térmica y valor esperado de la energía para partículas cuánticas en un pozo de potencial infinito unidimensional a temperatura T: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_ElectronEnNanoestructura_EnergiaTermica.ipynb).
 + Ley de Dulong-Petit, modelo de Einstein y modelo de Debye para el calor específico en sólidos: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_CalorEspecificoSolidos.ipynb).
 
+## Semana 7: Formulación de la estadística cuántica
++ Estados puros y mezclados de un haz de partículas cuánticas con espín 1/2 en presencia de un campo magnético en la configuración de Stern-Gerlach: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SternGerlach_EstadosPurosYMezclados.ipynb)
+
 ---
