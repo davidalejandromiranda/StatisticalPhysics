@@ -102,4 +102,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 ## Semana 7: Formulación de la estadística cuántica
 + Estados puros y mezclados de un haz de partículas cuánticas con espín 1/2 en presencia de un campo magnético en la configuración de Stern-Gerlach: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SternGerlach_EstadosPurosYMezclados.ipynb)
 
+## Semana 8: 
++ Estadística de los números de ocupación del gas ideal cuántico y clásico: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_EstadisticaNumerosOcupacionGasIdeal.ipynb)
+
 ---
