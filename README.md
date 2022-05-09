@@ -17,6 +17,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Momentos de Variables Aleatorias: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_MomentoVariablesAleatorias.ipynb).
   
 ## Semana 2: Distribuciones de probabilidad
++ Momentos de variables aleatorias: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_MomentoVariablesAleatorias.ipynb).
 + Distribuciones y Normalidad: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DistribucionesYNormalidad.ipynb).
 + Suma de Variables Aleatorias y Teorema del Valor Central: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SumaVariablesAleatorias.ipynb), [video](https://youtu.be/aEznx6ieqok).
 + Procesamiento de muestra de datos del Covid19 en Colombia: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_Muestreo.ipynb).
