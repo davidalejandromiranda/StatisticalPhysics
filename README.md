@@ -106,4 +106,6 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 ## Semana 8: 
 + Estadística de los números de ocupación del gas ideal cuántico y clásico: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_EstadisticaNumerosOcupacionGasIdeal.ipynb), [video](https://youtu.be/O7GVdSPE0x0).
 
+## Semana 9:
++ Radiación de cuerpo negro: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_RadiacionCuerpoNegro_PhET.ipynb).
 ---
