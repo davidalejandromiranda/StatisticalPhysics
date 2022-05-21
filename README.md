@@ -113,5 +113,5 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Radiación de cuerpo negro: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_RadiacionCuerpoNegro_PhET.ipynb).
 
 ## Semana 10:
-+ Estadística de Fermi-Dirac: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_EstadisticaFermiDirac.ipynb)
++ Estadística de Fermi-Dirac: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_EstadisticaFermiDirac.ipynb), [video](https://youtu.be/09nq4bGjpvs).
 ---
