@@ -69,8 +69,6 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Comparación de las distribuciones de Fermi-Dirac, Maxwell-Boltzmann y Bose-Einstein: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_DistribucionesFD-MB-BE.ipynb).
 + Radiación de cuerpo negro: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_RadiacionCuerpoNegro_PhET.ipynb).
 
-## Semana 16: Proyecto de final de curso
-
 ---
 
 --- 
@@ -105,13 +103,17 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 ## Semana 7: Formulación de la estadística cuántica
 + Estados puros y mezclados de un haz de partículas cuánticas con espín 1/2 en presencia de un campo magnético en la configuración de Stern-Gerlach: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SternGerlach_EstadosPurosYMezclados.ipynb)
 
-## Semana 8: 
+## Semana 8: Teoría de gases simples
 + Estadística de los números de ocupación del gas ideal cuántico y clásico: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_EstadisticaNumerosOcupacionGasIdeal.ipynb), [video](https://youtu.be/O7GVdSPE0x0).
 
-## Semana 9:
+## Semana 9: Sistemas de Bose ideales
 + Estadística de los números de ocupación del gas ideal cuántico y clásico: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_EstadisticaNumerosOcupacionGasIdeal.ipynb), [video](https://youtu.be/O7GVdSPE0x0).
 + Radiación de cuerpo negro: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_RadiacionCuerpoNegro_PhET.ipynb).
 
-## Semana 10:
+## Semana 10: Sistemas de Fermi ideales
 + Estadística de Fermi-Dirac: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_EstadisticaFermiDirac.ipynb), [video](https://youtu.be/09nq4bGjpvs).
+
+## Semana 11: Sistemas de Fermi ideales y Sistemas Mesoscópicos
++ Electrones en un sistema mesoscopico electroactivo: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SensorCapacitivoBetaTubulina.ipynb), [Paper](https://doi.org/10.1109/ACCESS.2021.3135787), [Data](https://ieeexplore.ieee.org/ielx7/6287639/9312710/9650898/supp1-3135787.docx?arnumber=9650898).
+
 ---
