@@ -110,10 +110,10 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Estadística de los números de ocupación del gas ideal cuántico y clásico: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_EstadisticaNumerosOcupacionGasIdeal.ipynb), [video](https://youtu.be/O7GVdSPE0x0).
 + Radiación de cuerpo negro: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_RadiacionCuerpoNegro_PhET.ipynb).
 
-## Semana 10: Sistemas de Fermi ideales
+## Semana 10: Sistemas de Fermi ideales
 + Estadística de Fermi-Dirac: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_EstadisticaFermiDirac.ipynb), [video](https://youtu.be/09nq4bGjpvs).
 
-## Semana 11: Sistemas de Fermi ideales y Sistemas Mesoscópicos
+## Semana 11: Sistemas de Fermi ideales y Sistemas Mesoscópicos
 + Electrones en un sistema mesoscopico electroactivo: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/master/notebooks/es_SensorCapacitivoBetaTubulina.ipynb), [Paper](https://doi.org/10.1109/ACCESS.2021.3135787), [Data](https://ieeexplore.ieee.org/ielx7/6287639/9312710/9650898/supp1-3135787.docx?arnumber=9650898).
 
 ---
