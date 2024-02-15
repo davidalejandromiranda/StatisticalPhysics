@@ -1,7 +1,7 @@
 # *Syllabus*
 
 *Syllabus* por semestre: 
-  + Pregrado: [2022-1](https://weekapp.co/#/1qG811ebMG-vYDi3X_3D4Nuh_gsHmX2OBYvXOncvch1s/0), [2021-2](http://weekapp.co/#/1JEstkmNXBMsG8nXCPeKUBhb_Xn0aO9B3Lj6E5vl15SY/0), [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV6eE/0).
+  + Pregrado: [2024-1](https://weekapp.co/#/Semestre/1YFRBD3Vl4oj2rhHenW92EqnLtiSRuM_FbdpJfn55shg/0), [2023-2](https://weekapp.co/#/18hEVdy9SZzjpIA124LpyIhWLKm9G5wptq0-11aXvB3Q/0), [2022-1](https://weekapp.co/#/1qG811ebMG-vYDi3X_3D4Nuh_gsHmX2OBYvXOncvch1s/0), [2021-2](http://weekapp.co/#/1JEstkmNXBMsG8nXCPeKUBhb_Xn0aO9B3Lj6E5vl15SY/0), [2021-1](https://weekapp.co/#/1XOk1eh1BG8-QLBlgyCMYCTp_fbvnhvqCWpXQ8WGV6eE/0).
   + Posgrado: [2022-1](http://weekapp.co/#/1fh3zCDorBNJCBRG2UixJPn9rCzPaFzV_ZJIZF4SA3rw/0).
 
 En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1Iw0LnygynpWyNg7_7) podrás ver videos explicativos.
@@ -11,10 +11,11 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 
 # Física Estadística: Pregrado
 ## Semana 1: Introducción a los métodos estadísticos 
-+ Camino aleatorio: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_CaminoAleatorio.ipynb).
-+ Juego de Parqués: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_JuegoParques.ipynb).
++ Diagrama de Frecuencias: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_DiagramaFrecuencias.ipynb)
 + Variable Aleatoria: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_VariableAleatoria.ipynb).
 + Momentos de Variables Aleatorias: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_MomentoVariablesAleatorias.ipynb).
++ Camino Aleatorio: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_CaminoAleatorio.ipynb).
++ Juego de Parqués: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_JuegoParques.ipynb).
   
 ## Semana 2: Distribuciones de probabilidad
 + Momentos de variables aleatorias: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_MomentoVariablesAleatorias.ipynb).
