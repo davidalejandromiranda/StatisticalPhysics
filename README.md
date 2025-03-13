@@ -22,6 +22,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJeZAbK1
 + Distribuciones y Normalidad: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_DistribucionesYNormalidad.ipynb).
 + Suma de Variables Aleatorias y Teorema del Valor Central: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_SumaVariablesAleatorias.ipynb), [video](https://youtu.be/aEznx6ieqok).
 + Procesamiento de muestra de datos del Covid19 en Colombia: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_Muestreo.ipynb).
++ Modelo Monte Carlo para responder a la pregunta ¿Cuánto es la probabilidad que la consulta para la elección de rector sea vinculante? [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_ModeloMonteCarloAcuerdo006CS2025.ipynb).
 
 ## Semana 3: Postulados básicos y cálculo de probabilidades
 + Experimento con dados: [colab](https://colab.research.google.com/github/davidalejandromiranda/StatisticalPhysics/blob/main/notebooks/es_DadosExperimento.ipynb).
